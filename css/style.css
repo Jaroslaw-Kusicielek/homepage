@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    color: #333;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.body--gray {
+    background-color: lightgray;
+}
