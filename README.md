@@ -1,6 +1,6 @@
 # FC BARCELONA website
 
-![FC Barca](https://github.com/Jaroslaw-Kusicielek/homepage/blob/main/images/herb.jpg?raw=true)
+![FC Barca](https://github.com/Jaroslaw-Kusicielek/homepage/blob/main/images/demo.png?raw=true)
 
 ## Demo
 
