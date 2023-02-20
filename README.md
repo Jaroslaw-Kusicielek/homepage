@@ -10,6 +10,14 @@ https://jaroslaw-kusicielek.github.io/homepage/
 
 This is the unofficial website of the football club FC Barcelona.
 
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- BEM
+- ES 6
+
 ## Website creator
 
 **Jarosław Kusicielek**
